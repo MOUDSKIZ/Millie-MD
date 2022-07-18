@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["212695290310"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -43,22 +43,22 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
+global.linkgc = 'https://chat.whatsapp.com/KUGDNzTkom7Co72LHCzYiS'
+global.linkig = 'https://instagram.com/mouuad__elk'
 global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
+global.linkfb = 'https://www.facebook.com/cassamouad'
+global.git = 'https://github.com/MOUADOFFICIEL'
 global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.url = 'https://chat.whatsapp.com/KUGDNzTkom7Co72LHCzYiS'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
+global.thumburl = process.env.IMAGE || 'https://telegra.ph/file/59a92870ab48d1f847d31.jpg'
+global.packname = process.env.PACKNAME ||'𝙢𝙮 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 : 𝙢𝙤𝙪𝙪𝙖𝙙__𝙚𝙡𝙠'
+global.author = process.env.AUTHOR ||'𝙈𝙊𝙐𝘼𝘿 𝙀𝙇'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
 global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.owner_name = process.env.OWNER_NAME || '𝙈𝙊𝙐𝘼𝘿 𝙀𝙇'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'mouuad__elk'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
